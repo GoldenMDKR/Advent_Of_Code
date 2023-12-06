@@ -1,2 +1,6 @@
 # compiled #
-.out
+*.out
+
+*.txt
+# main
+main
