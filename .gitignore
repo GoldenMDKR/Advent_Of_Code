@@ -1,6 +1,6 @@
 # compiled #
 *.out
 
-*.txt
+input.txt
 # main
 main
